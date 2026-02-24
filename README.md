@@ -40,13 +40,20 @@ Net profit came in **45K below budget** driven by **lower revenue (-30K)** and *
 ## DAX Measures (Main) | أهم معادلات DAX
 ```DAX
 Budget Net Profit =
-CALCULATE(SUM(Variance[Budget]), Variance[Item] = "Net Profit")
+CALCULATE(
+    SUM(Variance[Budget]),
+    Variance[Item] = "Net Profit"
+)
 
 Actual Net Profit =
-CALCULATE(SUM(Variance[Actual]), Variance[Item] = "Net Profit")
+CALCULATE(
+    SUM(Variance[Actual]),
+    Variance[Item] = "Net Profit"
+)
 
 Net Profit Variance =
 [Actual Net Profit] - [Budget Net Profit]
 
 Net Profit Variance % =
 DIVIDE([Net Profit Variance], [Budget Net Profit])
+

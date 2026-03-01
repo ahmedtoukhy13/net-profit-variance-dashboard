@@ -76,10 +76,8 @@
 
 ## 
 
-## \## 📷 Dashboard Preview
-
-## !\[Dashboard](screenshots/dashboard.png)
-
+## 📷 Dashboard Preview
+![Dashboard Preview](./screenshots/Dashboard.png)
 ## 
 
 ## ---
@@ -98,8 +96,7 @@
 
 ## 
 
-## !\[Waterfall](screenshots/waterfall.png)
-
+![Waterfall Chart](./screenshots/Waterfall.png)
 ## 
 
 ## ---
@@ -229,4 +226,5 @@
 ## Ahmed Samir Toukhy  
 
 ## Data Analyst | Power BI \& Financial Analysis
+
 

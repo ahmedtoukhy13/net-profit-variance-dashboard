@@ -77,8 +77,8 @@
 ## 
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](./screenshots/Dashboard.png)
-## 
+
+![Dashboard Preview](./Net_Profit_Variance_Dashboard/screenshots/Dashboard.png)## 
 
 ## ---
 
@@ -96,7 +96,7 @@
 
 ## 
 
-![waterfall Chart](./screenshots/waterfall.png)
+![Waterfall Chart](./Net_Profit_Variance_Dashboard/screenshots/waterfall.png)
 ## 
 
 ## ---
@@ -111,8 +111,7 @@
 
 ## 📷 Variance Table
 
-![variance table](./screenshots/variance_table.png)
-## 
+![Variance Table](./Net_Profit_Variance_Dashboard/screenshots/variance_table.png)## 
 
 ## ---
 

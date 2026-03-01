@@ -96,7 +96,7 @@
 
 ## 
 
-![Waterfall Chart](./screenshots/Waterfall.png)
+![waterfall Chart](./screenshots/waterfall.png)
 ## 
 
 ## ---
@@ -109,8 +109,9 @@
 
 ## 
 
-## !\[Variance Table](screenshots/variance\_table.png)
+## 📷 Variance Table
 
+![variance table](./screenshots/variance_table.png)
 ## 
 
 ## ---
@@ -189,37 +190,35 @@
 
 ## ---
 
-## 
-
-## \## 📌 Limitations \& Future Improvements
-
-## 
-
-## \### Limitations
-
-## \- Demonstration dataset (not real company data)
-
-## \- Single-period financial analysis
-
-## \- Static Excel data source
-
-## 
-
-## \### Future Improvements
-
-## \- Integrate SQL Server as live data source  
-
-## \- Add multi-period comparison (MoM / YoY)  
-
-## \- Implement dynamic What-if scenario simulation  
-
-## \- Add Row-Level Security (RLS)  
-
-## 
-
 ## ---
 
-## 
+## ⚠️ Limitations | القيود
+- The dataset used is a structured sample dataset for demonstration purposes and does not represent real company financial data.
+- The analysis is based on a single reporting period and does not include multi-year comparison (YoY analysis).
+- The dashboard focuses on high-level executive metrics without drill-through to transaction-level details.
+- The data source is Excel-based and not connected to a live database (e.g., SQL Server).
+  
+- البيانات المستخدمة هي بيانات تجريبية منظمة لأغراض العرض ولا تمثل بيانات مالية حقيقية لشركة فعلية.
+- التحليل يعتمد على فترة تقارير واحدة فقط ولا يشمل مقارنة متعددة السنوات (YoY).
+- يركّز الداشبورد على مؤشرات تنفيذية عالية المستوى دون إمكانية التعمق حتى مستوى العمليات التفصيلية.
+- مصدر البيانات يعتمد على ملف Excel وغير مرتبط بقاعدة بيانات مباشرة مثل SQL Server.
+
+---
+
+## 🚀 Future Improvements | التطوير المستقبلي
+
+- Add multi-period comparison (MoM / YoY) to enhance performance tracking.
+- Integrate SQL Server as a dynamic data source instead of static Excel files.
+- Implement What-If parameters for dynamic revenue and cost scenario simulations.
+- Apply Row-Level Security (RLS) to simulate role-based financial reporting.
+- Improve scalability by redesigning the model using a star schema structure.
+
+- إضافة مقارنة متعددة الفترات (شهري/سنوي) لتعزيز متابعة الأداء.
+- ربط المشروع بقاعدة بيانات SQL Server كمصدر بيانات ديناميكي بدلاً من ملفات Excel ثابتة.
+- تطبيق What-If Parameters لمحاكاة سيناريوهات مختلفة للإيرادات والتكاليف.
+- تطبيق نظام صلاحيات (Row-Level Security) لمحاكاة تقارير مالية حسب الأدوار الوظيفية.
+- تحسين قابلية التوسع من خلال إعادة تصميم النموذج باستخدام هيكل Star Schema.
+---
 
 ## \## 👤 Author
 
